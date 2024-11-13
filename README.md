@@ -1,6 +1,5 @@
 # Types-of-Arrays-CPlusPlus
-
-include iostream: This includes the input/output stream library, allowing the use of std::cout for console output.
+Include iostream: This includes the input/output stream library, allowing the use of std::cout for console output.
 
 Main Function
 
